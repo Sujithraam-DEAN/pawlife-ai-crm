@@ -1,7 +1,5 @@
 # PawLife - AI-Native Mini CRM
 
-**[🔗 Live Demo (Hosted URL)](#)** | **[🎥 Walkthrough Video](https://drive.google.com/file/d/1zjTreSmUsHou0ygBGxFaT-oTRAdCTUsK/view?usp=drive_link)**
-
 A marketing CRM for **PawLife**, an Indian D2C pet care brand. Helps marketers decide **who to reach**, **what to say**, and **which channel** to use - with AI woven into every step.
 
 ## Product POV
